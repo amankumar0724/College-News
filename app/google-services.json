@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857831881277",
+    "project_id": "college-news-14b53",
+    "storage_bucket": "college-news-14b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857831881277:android:c6ee3922ac787d4e31c854",
+        "android_client_info": {
+          "package_name": "com.example.collegenews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWMHGYvO4k6JPEmBLbeCz6fgPI9pCEL0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

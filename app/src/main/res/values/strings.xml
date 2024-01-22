@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">College News</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="welcome_nsign_up">Welcome, \nSign Up</string>
+    <string name="Username">\t\tUsername</string>
+    <string name="UsernamE">\t\t\tUsername</string>
+    <string name="password">\t\t\tPassword</string>
+    <string name="Email">\t\t\tEmail</string>
+    <string name="signup">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_nsign_in">Welcome,\nSign In</string>
+    <string name="create_username">\t\t\tCreate Username</string>
+    <string name="if_you_re_not_registered_click_sign_up">If you\'re not registered,click Sign Up.</string>
+    <string name="if_already_registered_sign_in">If already registered, Sign In.</string>
+</resources>
